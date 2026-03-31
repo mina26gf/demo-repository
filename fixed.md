@@ -1,1 +1,1 @@
-added confing file
+added config file
